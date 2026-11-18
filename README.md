@@ -37,4 +37,5 @@ Python AUTH.PY
 
 4. Чтобы убедится здесь должно появится надпись
 
+
 ![alt text](images\vIT4.png)
